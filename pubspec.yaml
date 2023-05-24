@@ -1,10 +1,12 @@
 name: native_context_menu_ng
-description: native_context_menu_ng is a Flutter plugin for creating native right-click menus on macOS, supporting nested menus and optional icons.
+description: native_context_menu_ng is a Flutter plugin that provides native right-click menus for Flutter applications, supporting three major desktop platforms (macOS, Windows and Linux).
 version: 0.0.1
 homepage: https://dev.venyore.com
+repository: https://github.com/parcool/native_context_menu_ng
+
 
 environment:
-  sdk: '>=2.19.6 <3.0.0'
+  sdk: '>=2.19.6 <4.0.0'
   flutter: ">=2.5.0"
 
 dependencies:
