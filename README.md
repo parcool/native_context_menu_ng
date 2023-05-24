@@ -1,6 +1,8 @@
 # native_context_menu_ng
 [[English]](README.md)  |  [[中文]](README_cn.md)
 
+![Pub Version](https://img.shields.io/pub/v/native_context_menu_ng)
+
 native_context_menu_ng is a Flutter plugin that provides native right-click menus for Flutter applications, supporting three major desktop platforms (macOS, Windows and Linux).
 
 # Features

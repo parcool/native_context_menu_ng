@@ -1,6 +1,8 @@
 # native_context_menu_ng
 [[English]](README.md)  |  [[中文]](README_cn.md)
 
+![Pub Version](https://img.shields.io/pub/v/native_context_menu_ng)
+
 native_context_menu_ng是一个flutter插件，给flutter应用提供原生的右键菜单，支持3个主流桌面平台（macOS、Windows、Linux）。
 
 # 特色
