@@ -12,7 +12,7 @@ native_context_menu_ng是一个flutter插件，给flutter应用提供原生的�
 * 支持分割线；
 * 支持菜单项禁用/启用；
 
-<img src="screenshot.gif" alt="macOS" />
+<img src="https://github.com/parcool/native_context_menu_ng/blob/main/screenshot.gif?raw=true" alt="macOS" />
 
 # 使用示例
 
