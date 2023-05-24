@@ -12,7 +12,7 @@ native_context_menu_ng is a Flutter plugin that provides native right-click menu
 * Supports separators;
 * Supports disabling/enabling menu items."
 
-<img src="https://github.com/parcool/native_context_menu_ng/blob/main/screenshot.gif?raw=true" alt="macOS" />
+<img src="https://github.com/parcool/native_context_menu_ng/blob/main/screenshot.gif?raw=true" alt="gif" />
 
 # Usage
 1. Build the menu first.
