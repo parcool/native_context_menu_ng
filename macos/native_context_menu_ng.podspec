@@ -5,13 +5,13 @@
 Pod::Spec.new do |s|
   s.name             = 'native_context_menu_ng'
   s.version          = '0.0.1'
-  s.summary          = 'A new Flutter project.'
+  s.summary          = 'native_context_menu_ng is a Flutter plugin that provides native right-click menus for Flutter applications, supporting three major desktop platforms (macOS, Windows and Linux).'
   s.description      = <<-DESC
 A new Flutter project.
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'http://dev.venyore.com'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
+  s.author           = { 'parcool' => 'parcool2015@gmail.com' }
 
   s.source           = { :path => '.' }
   s.source_files     = 'Classes/**/*'
